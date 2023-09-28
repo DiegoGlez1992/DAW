@@ -2,7 +2,7 @@
 Este temario y ejercicios corresponden al I.E.S. Augusto González de Linares de Santander, Cantabria, de la promoción 2023/2024 en modalidad a distancia.
 
 ### Primer Curso (DAW1)
-* [Bases de Datos](https://github.com/DiegoGlez1992/DAM/tree/main/Bases%20de%20datos) >Convalidada
+* [Bases de Datos](https://github.com/DiegoGlez1992/DAM/tree/main/Bases%20de%20datos) > Convalidada
 * [Entornos de Desarrollo](https://github.com/DiegoGlez1992/DAM/tree/main/Entornos%20de%20desarrollo) >Convalidada
 * [Formación y Orientación Laboral](https://github.com/DiegoGlez1992/DAM/tree/main/Formaci%C3%B3n%20y%20orientaci%C3%B3n%20laboral) Convalidada
 * [Lenguaje de Marcas y Sistemas de Gestión de la Información](https://github.com/DiegoGlez1992/DAM/tree/main/Lenguajes%20de%20marcas%20y%20sistemas%20de%20gesti%C3%B3n%20de%20informaci%C3%B3n) Convalidada
