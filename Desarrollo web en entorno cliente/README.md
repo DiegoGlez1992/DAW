@@ -5,8 +5,8 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno c
 * Nota tarea: 10.00
 ### [DWEC02 - Estructura del lenguaje javascript](https://github.com/DiegoGlez1992/DAW/tree/main/Desarrollo%20web%20en%20entorno%20cliente/DWEC02%20-%20Estructura%20del%20lenguaje%20javascript)
 * Nota tarea: 10.00
-### []()
-* Nota tarea: 
+### [DWEC03 - Modelo de objetos predefinidos en JavaScript](Desarrollo web en entorno cliente/DWEC03 - Modelo de objetos predefinidos en JavaScript)
+* Nota tarea: 10.00
 ### []()
 * Nota tarea: 
 ## 2ª Evaluación
