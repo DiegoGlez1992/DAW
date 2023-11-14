@@ -4,7 +4,7 @@ Este temario y ejercicios corresponden al módulo de diseño de interfaces web d
 ### [DIW01 - Planificación de interfaces gráficas](DIW01%20-%20Planificaci%C3%B3n%20de%20interfaces%20gr%C3%A1ficas)
 * Nota tarea: 8.90
 ### [DIW02 - Accesibilidad en la Web](DIW02%20-%20Accesibilidad%20en%20la%20Web)
-* Nota tarea: 
+* Nota tarea: 5.66
 ### [DIW03 - Usabilidad en la Web](DIW03%20-%20Usabilidad%20en%20la%20Web)
 * Nota tarea: 
 ### []()
