@@ -8,7 +8,7 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno c
 ### [DWEC03 - Modelo de objetos predefinidos en JavaScript](DWEC03%20-%20Modelo%20de%20objetos%20predefinidos%20en%20JavaScript)
 * Nota tarea: 10.00
 ### [DWEC04 - Estructuras definidas por el usuario en JavaScript](DWEC04%20-%20Estructuras%20definidas%20por%20el%20usuario%20en%20JavaScript)
-* Nota tarea: 
+* Nota tarea: 10.00
 ## 2ª Evaluación
 ### []()
 * Nota tarea: 
