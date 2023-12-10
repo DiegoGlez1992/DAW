@@ -8,7 +8,7 @@ Este temario y ejercicios corresponden al módulo de diseño de interfaces web d
 ### [DIW03 - Usabilidad en la Web](DIW03%20-%20Usabilidad%20en%20la%20Web)
 * Nota tarea: 10.00
 ### [DIW04 - Hojas de estilos](DIW04%20-%20Hojas%20de%20estilos)
-* Nota tarea: 
+* Nota tarea: 9.50
 ## 2ª Evaluación
 ### []()
 * Nota tarea: 
