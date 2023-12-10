@@ -6,9 +6,9 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno s
 ### [DWES02 - Características del lenguaje PHP](DWES02%20-%20Caracter%C3%ADsticas%20del%20lenguaje%20PHP)
 * Nota tarea: 10.00
 ### [DWES03 - Trabajar con bases de datos en PHP](DWES03%20-%20Trabajar%20con%20bases%20de%20datos%20en%20PHP)
-* Nota tarea: 
+* Nota tarea: 10.00
 ### [DWES04 - Desarrollo de aplicaciones web con PHP](DWES04%20-%20Desarrollo%20de%20aplicaciones%20web%20con%20PHP)
-* Nota tarea: 
+* Nota tarea: 10.00
 ## 2ª Evaluación
 ### []()
 * Nota tarea: 
