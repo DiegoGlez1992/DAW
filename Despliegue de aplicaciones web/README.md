@@ -6,7 +6,7 @@ Este temario y ejercicios corresponden al módulo de despliegue de aplicaciones 
 ### [DAW02 - Configuración y administración de servidores Web](DAW02%20-%20Configuraci%C3%B3n%20y%20administraci%C3%B3n%20de%20servidores%20Web)
 * Nota tarea: 10.00
 ### [DAW03 - Configuración y administración de servidores de aplicaciones](DAW03%20-%20Configuraci%C3%B3n%20y%20administraci%C3%B3n%20de%20servidores%20de%20aplicaciones)
-* Nota tarea: 
+* Nota tarea: 10.00
 ## 2ª Evaluación
 ### []()
 * Nota tarea: 
