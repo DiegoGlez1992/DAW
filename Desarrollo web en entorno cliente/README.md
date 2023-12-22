@@ -12,8 +12,8 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno c
 ### [DWEC05 - Gestión de eventos y formularios en JavaScript](DWEC05%20-%20Gesti%C3%B3n%20de%20eventos%20y%20formularios%20en%20JavaScript)
 * Nota tarea: 10.00
 ## 2ª Evaluación
-### []()
-* Nota tarea: 
+### [DWEC06 - Modelo de objetos del documento en javascript](DWEC06%20-%20Modelo%20de%20objetos%20del%20documento%20en%20javascript)
+* Nota tarea: 10.00
 ### []()
 * Nota tarea: 
 ### []()
