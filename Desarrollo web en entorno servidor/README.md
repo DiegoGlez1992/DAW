@@ -11,7 +11,7 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno s
 * Nota tarea: 10.00
 ## 2ª Evaluación
 ### []()
-* Nota tarea: 
+* Nota tarea: 10.00
 ### []()
 * Nota tarea: 
 ### []()
