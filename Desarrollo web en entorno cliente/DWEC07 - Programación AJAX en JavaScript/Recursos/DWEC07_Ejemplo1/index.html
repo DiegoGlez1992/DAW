@@ -1,0 +1,56 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>DWEC07 .- Ejemplo petición AJAX</title>
+		<script type="text/javascript">
+			let peticion;
+			const iniciar = () => {
+				peticion = new XMLHttpRequest();
+				peticion.open('GET', "http://localhost/DWEC07_Ejemplo1/fecha.php"); 
+				peticion.send();
+				peticion.addEventListener("load", cargada);
+				document.getElementById("estado").classList = [ 'cargando' ];
+				document.getElementById("estado").innerText = "Cargando...";
+			}
+
+			const cargada = () => {
+				document.getElementById("resultados").innerText = peticion.responseText;
+				document.getElementById("estado").classList = [ 'cargada' ];
+				document.getElementById("estado").innerText = "Cargada.";
+			}
+
+			window.addEventListener("load", iniciar, false);
+		</script>
+		<style>
+			#resultados {
+				background: yellow;
+			}
+			.cargando {
+				background: red;
+			}
+			.cargada {
+				background: green;
+			}
+		</style>
+	</head>
+	<body>
+		<p>
+			A continuación se cargarán por AJAX los datos recibidos en la solicitud ASINCRONA:
+		</p>
+		<p>
+			Esta solicitud tardará 2 segundos aproximadamente, que es el tiempo de ejecución de la página PHP en el servidor
+		</p>
+		<p>
+			Contenedor resultados:
+			<div id="resultados"></div>
+		</p>
+		<p>
+			Estado de las solicitudes:
+			<div id="estado"></div>
+		</p>
+	</body>
+</html>
+

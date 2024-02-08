@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>DWEC07.- Ejemplo jQuery método post</title>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+		<script type="text/javascript">
+			$( () => {
+				$.post('http://localhost/DWEC07_Ejemplo7/procesar.php', 'nombre=Bob&apellidos=Esponja', (respuesta) => {
+					$("#resultados").html(respuesta);
+				});
+			});
+		</script>
+		<style>
+			#resultados{
+				background: yellow;
+			}
+		</style>
+	</head>
+	<body>
+		<p>
+			A continuación se cargarán por AJAX los datos recibidos en la solicitud ASINCRONA:
+		</p>
+		<p>
+			Contenedor resultados:
+			<div id="resultados"></div>
+		</p>
+	</body>
+</html>

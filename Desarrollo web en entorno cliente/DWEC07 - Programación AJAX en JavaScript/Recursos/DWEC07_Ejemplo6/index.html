@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>DWEC07.- Ejemplo jQuery método ajax</title>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+		<script type="text/javascript">
+			$( () => {
+				$.ajax({
+					url: 'http://localhost/DWEC07_Ejemplo6/fecha.php',
+					type: 'GET',
+					async: true,
+					success: (respuesta) => {
+						$("#resultados").text(respuesta);
+						$("#estado").toggleClass('cargada');
+						$("#estado").text("Cargada.");
+					}
+				});
+			});
+		</script>
+		<style>
+			#resultados {
+				background: yellow;
+			}
+			.cargando {
+				background: red;
+			}
+			.cargada {
+				background: green;
+			}
+		</style>
+	</head>
+	<body>
+		<p>
+			A continuación se cargarán por AJAX los datos recibidos en la solicitud ASINCRONA:
+		</p>
+		<p>
+			Esta solicitud tardará 2 segundos aproximadamente, que es el tiempo de ejecución de la página PHP en el servidor
+		</p>
+		<p>
+			Contenedor resultados:
+			<div id="resultados"></div>
+		</p>
+		<p>
+			Estado de las solicitudes:
+			<div id="estado"></div>
+		</p>
+	</body>
+</html>

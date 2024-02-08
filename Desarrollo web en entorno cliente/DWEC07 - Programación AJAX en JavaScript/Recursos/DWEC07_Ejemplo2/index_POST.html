@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>DWEC07.- Ejemplo método POST</title>
+		<script type="text/javascript">
+			let peticion;
+			const iniciar = () => {
+				peticion = new XMLHttpRequest();
+				peticion.open('POST', "http://localhost/DWEC07_Ejemplo2/procesar.php"); 
+				peticion.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+				peticion.send('nombre=Bob&apellidos=Esponja');
+				peticion.addEventListener("load", cargada);
+			}
+
+			const cargada = () => {
+				document.getElementById("resultados").innerHTML = peticion.responseText;
+			}
+
+			window.addEventListener("load", iniciar, false);
+		</script>
+		<style>
+			#resultados{
+				background: yellow;
+			}
+		</style>
+	</head>
+	<body>
+		<p>
+			A continuación se cargarán por AJAX los datos recibidos en la solicitud ASINCRONA:
+		</p>
+		<p>
+			Contenedor resultados:
+			<div id="resultados"></div>
+		</p>
+	</body>
+</html>

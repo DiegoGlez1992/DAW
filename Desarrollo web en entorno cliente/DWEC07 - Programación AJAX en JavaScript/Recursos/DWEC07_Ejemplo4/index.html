@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>DWEC07.- Ejemplo petición JSON</title>
+		<script type="text/javascript">
+			let peticion;
+			const iniciar = () => {
+				peticion = new XMLHttpRequest();
+				peticion.open('GET', "http://localhost/DWEC07_Ejemplo4/datosjson.php"); 
+				peticion.send();
+				peticion.addEventListener("load", cargada);
+			}
+
+			const cargada = () => {
+				let resultados = '';
+				let cds = JSON.parse(peticion.responseText);
+				resultados += '<ul>';
+				for (let i = 0; i < cds.length; i++) {
+					resultados += `<li><b>CD nº ${i + 1}</b><ul>`;
+					resultados += `<li><b>Título:</b> ${cds[i].title}</li>`;
+					resultados += `<li><b>Artista:</b> ${cds[i].artist}</li>`;
+					resultados += `<li><b>País:</b> ${cds[i].country}</li>`;
+					resultados += `<li><b>Compania:</b> ${cds[i].company}</li>`;
+					resultados += `<li><b>Precio:</b> ${cds[i].price}</li>`;
+					resultados += `<li><b>Año:</b> ${cds[i].year}</li>`;
+					resultados += `</li></ul>`;
+				}
+				resultados += '</ul>';
+
+				document.getElementById("resultados").innerHTML = resultados;
+			}
+
+			window.addEventListener("load", iniciar, false);
+		</script>
+		<style>
+			#resultados{
+				background: yellow;
+			}
+		</style>
+	</head>
+	<body>
+		<p>
+			A continuación se cargarán por AJAX los datos recibidos en la solicitud ASINCRONA:
+		</p>
+		<p>
+			Contenedor resultados:
+			<div id="resultados"></div>
+		</p>
+	</body>
+</html>
