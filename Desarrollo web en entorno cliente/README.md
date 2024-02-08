@@ -14,10 +14,8 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno c
 ## 2ª Evaluación
 ### [DWEC06 - Modelo de objetos del documento en javascript](DWEC06%20-%20Modelo%20de%20objetos%20del%20documento%20en%20javascript)
 * Nota tarea: 10.00
-### []()
-* Nota tarea: 
-### []()
-* Nota tarea: 
+### [DWEC07 - Programación AJAX en JavaScript](DWEC07%20-%20Programaci%C3%B3n%20AJAX%20en%20JavaScript)
+* Nota tarea: 10.00
 ## Exámenes
 ### [1ª evaluación](DWEC%20-%20Examen%201ª%20evaluación)
 ### [2ª evaluación]()

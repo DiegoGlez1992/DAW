@@ -10,11 +10,13 @@ Este temario y ejercicios corresponden al módulo de diseño de interfaces web d
 ### [DIW04 - Hojas de estilos](DIW04%20-%20Hojas%20de%20estilos)
 * Nota tarea: 9.50
 ## 2ª Evaluación
-### [DIW05 - Contenidos multimedia en la web: imágenes]()
+### [DIW05 - Contenidos multimedia en la web: imágenes](DIW05%20-%20Contenidos%20multimedia%20en%20la%20Web%20-%20Im%C3%A1genes)
 * Nota tarea: 9.30
-### []()
-* Nota tarea: 
-### []()
+### [DIW06 - Contenidos multimedia en la Web - Audio y Vídeo](DIW06%20-%20Contenidos%20multimedia%20en%20la%20Web%20-%20Audio%20y%20V%C3%ADdeo)
+* Nota tarea: 9.75
+### [DIW07 - Contenidos multimedia en la Web - Animaciones](DIW07%20-%20Contenidos%20multimedia%20en%20la%20Web%20-%20Animaciones)
+* Nota tarea: 9.25
+### [DIW08 - Contenidos web interactivos](DIW08%20-%20Contenidos%20web%20interactivos)
 * Nota tarea: 
 ## Exámenes
 ### [1ª evaluación](DIW%20-%20Examen%201ª%20evaluación)
