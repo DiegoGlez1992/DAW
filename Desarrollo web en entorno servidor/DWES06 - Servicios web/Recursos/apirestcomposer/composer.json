@@ -1,0 +1,28 @@
+{
+    "name": "usuario/practica",
+    "description": "Ejemplo API Rest",
+    "type": "project",
+    "require": {
+
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src"
+        }
+    },
+	"config": {
+		"platform": {
+			"php": "7.4.32"
+		}
+	},
+    "license": "GNU/GPL",
+    "authors": [
+        {
+            "name": "usuario",
+            "email": "usuario@correo.es"
+        }
+    ]
+}
