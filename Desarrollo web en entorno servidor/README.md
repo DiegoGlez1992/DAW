@@ -13,7 +13,7 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno s
 ### [DWES05 - Programación orientada a objetos en PHP](DWES05%20-%20Programaci%C3%B3n%20orientada%20a%20objetos%20en%20PHP)
 * Nota tarea: 10.00
 ### [DWES06 - Servicios web](DWES06%20-%20Servicios%20web)
-* Nota tarea: 
+* Nota tarea:  9.80
 ### [DWES07 - Aplicaciones web dinámicas - PHP y Javascript](DWES07%20-%20Aplicaciones%20web%20din%C3%A1micas%20-%20PHP%20y%20Javascript)
 * Nota tarea: 
 ## Exámenes
