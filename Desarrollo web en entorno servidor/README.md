@@ -15,7 +15,7 @@ Este temario y ejercicios corresponden al módulo de desarrollo web en entorno s
 ### [DWES06 - Servicios web](DWES06%20-%20Servicios%20web)
 * Nota tarea:  9.80
 ### [DWES07 - Aplicaciones web dinámicas - PHP y Javascript](DWES07%20-%20Aplicaciones%20web%20din%C3%A1micas%20-%20PHP%20y%20Javascript)
-* Nota tarea: 
+* Nota tarea: 10.00
 ## Exámenes
 ### [1ª evaluación](DWES%20-%20Examen%201ª%20evaluación)
 ### [2ª evaluación]()
